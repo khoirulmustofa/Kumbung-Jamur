@@ -1,0 +1,2 @@
+﻿size main 1368, 725
+size main MDI 1358, 578
